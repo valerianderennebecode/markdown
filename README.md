@@ -31,11 +31,10 @@ A bit more organised data :
 
 #### My contribution to the group
 
-- I'm a quite positive person so i hope what i can share that positive vibe whenever it's needed the most (you know, when you are looking for that wrong dash for the last 3h). 
-- 
-- I can build you a WIX website. Here is mine 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+- I'm a quite positive person so i hope that i can share that positive vibe whenever it's needed the most (you know, when you are looking for that wrong dash for the last 3h). 
+- I use to be able to give some basic Daruma Taiso (zen gymnastic)
+- I can build you a WIX website :). [Here is mine](https://www.socialgoombah.be)
+
 
 A funny story (smaller header)
 
