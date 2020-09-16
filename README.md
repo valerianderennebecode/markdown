@@ -39,7 +39,7 @@ A bit more organised data :
 
 Years ago, i was a travel educators in an international company. Send youth abroad for divers programs such as volunteer abroad, highschool exchange, language courses, .... One of my task was to assist future travelers with their administration things to go abroad (planes, insurances, visas,...). In 2008, i was asked to go work in Australia for a year for the local office there. At the time I was traveling in South America when i asked online for my visa. After a few days, i received what i believed was my visa. So i left. It turned out, i applied for some paid assistance on how to get a visa... Got a 2 month delay. Good way to start a new position.
 
-##### TL;DR (even smaller header, under funny story)
+##### TL;DR
 
 The shoemaker always wears the worst shoes.
 
