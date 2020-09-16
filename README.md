@@ -35,18 +35,12 @@ A bit more organised data :
 - I use to be able to give some basic Daruma Taiso (zen gymnastic)
 - I can build you a WIX website :). [Here is mine](https://www.socialgoombah.be)
 
+#### A funny story (smaller header)
 
-A funny story (smaller header)
+Years ago, i was a travel educators in an international company. Send youth abroad for divers programs such as volunteer abroad, highschool exchange, language courses, .... One of my task was to assist future travelers with their administration things to go abroad (planes, insurances, visas,...). In 2008, i was asked to go work in Australia for a year for the local office there. At the time I was traveling in South America when i asked online for my visa. After a few days, i received what i believed was my visa. So i left. It turned out, i applied for some paid assistance on how to get a visa... Got a 2 month delay. Good way to start a new position.
 
-Tell a short funny story about your life.
+##### TL;DR (even smaller header, under funny story)
 
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
-
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
+The shoemaker always wears the worst shoes.
 
 << previous || YOUR NAME || next >>
