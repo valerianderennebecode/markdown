@@ -4,7 +4,7 @@ _Un bateau dans un port est en sécurité, mais ce n'est pas pour cela qu'il a �
 
 ![](markdown/1A1A11111.jpg)
 
-### J'essaie de vivre ma vie pour qu'elle ne puisse être résumée en une phrase.
+##### J'essaie de vivre ma vie pour qu'elle ne puisse être résumée en une phrase.
 
 A bit more organised data : 
 | Your question | My answer |
@@ -14,9 +14,15 @@ A bit more organised data :
 | Favorite food | Suchis |
 | Pinneapple on pizza | x |
 
-Hobbies (smaller header)
+####Hobbies
 
-This should contain a bullet list of your hobbies
+- Permaculture
+- Sport 
+  - Yoga
+  - Kaisaido
+  - Tennis
+  - Volleyball
+- Historical books
 At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
 
 You can always count on me when... (smaller header)
