@@ -13,7 +13,7 @@ A bit more organised data :
 | Birthday | 20/08  |
 |Favorite color | Orange  |
 | Favorite food | Suchis |
-| Pinneapple on pizza | <ul> <li> No [ ] </li> <li> Yes [x] </li> </ul> |
+| Pinneapple on pizza | <ul> <li> [ ] </li> </ul> |
 
 #### Hobbies
 
