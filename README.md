@@ -2,8 +2,7 @@
 
 _Un bateau dans un port est en sécurité, mais ce n'est pas pour cela qu'il a été construit._
 
-<p align="center">
-![1A1A11111](https://user-images.githubusercontent.com/70646854/93339369-c922ba80-f82b-11ea-9d14-a701553ad159.jpg) </p>
+![1A1A11111](https://user-images.githubusercontent.com/70646854/93339369-c922ba80-f82b-11ea-9d14-a701553ad159.jpg)
 
 ##### J'essaie de vivre ma vie pour qu'elle ne puisse être résumée en une phrase.
 
