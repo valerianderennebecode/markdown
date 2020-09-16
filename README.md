@@ -43,4 +43,4 @@ Years ago, i was a travel educators in an international company. Send youth abro
 
 The shoemaker always wears the worst shoes.
 
-[<< previous](https://github.com/Makraiyassin/markdown-challenge) || Valérian || [next >>](https://github.com/Makraiyassin/markdown-challenge)
+[<< previous](https://github.com/THIBRUYS/MARKDOWN-CHALLENGE/blob/master/README.md) || Valérian || [next >>](https://github.com/Makraiyassin/markdown-challenge)
