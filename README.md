@@ -14,7 +14,7 @@ A bit more organised data :
 | Favorite food | Suchis |
 | Pinneapple on pizza | x |
 
-####Hobbies
+#### Hobbies
 
 - Permaculture
 - Sport 
@@ -22,12 +22,18 @@ A bit more organised data :
   - Kaisaido
   - Tennis
   - Volleyball
+  - Zazen
 - Historical books
+- Social Justice
+- Backpacking
+
+#### You can always count on me when you need someone to count on :)
+
+#### My contribution to the group
+
+- I'm a quite positive person so i hope what i can share that positive vibe whenever it's needed the most (you know, when you are looking for that wrong dash for the last 3h). 
 - 
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
-
-You can always count on me when... (smaller header)
-
+- I can build you a WIX website. Here is mine 
 Tell your teammates which positive contribution to the group you will make.
 This could be technical, making people feel comfortable, being an organiser...
 
