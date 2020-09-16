@@ -1,17 +1,18 @@
 # DERENNE Valérian
 
 _Un bateau dans un port est en sécurité, mais ce n'est pas pour cela qu'il a été construit._
+
 ![](markdown/1A1A11111.jpg)
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-"Me, in one sentence" (as a smaller header)
+### J'essaie de vivre ma vie pour qu'elle ne puisse être résumée en une phrase.
 
-A table with the following structure:
-
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+A bit more organised data : 
+| Your question | My answer |
+| :---: | :---:|
+| Birthday | 20/08  |
+|Favorite color | Orange  |
+| Favorite food | Suchis |
+| Pinneapple on pizza | x |
 
 Hobbies (smaller header)
 
