@@ -1,7 +1,7 @@
 # DERENNE Valérian
 
 _Un bateau dans un port est en sécurité, mais ce n'est pas pour cela qu'il a été construit._
-
+![](markdown/1A1A11111.jpg)
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
 "Me, in one sentence" (as a smaller header)
